@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+body{
+   background-image:url(image2.jfif);
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+   background-size:100% 100%;
+   }
+</style>   
+</head>
+<body>
+
+<form>
+<h3 align="center">
+
+FullName :<input type="text"size="30"name="username"autofocus placeholder="fullname"><br><br>
+
+<h3 align="center">
+E-mail  :<input type="text"size="30"name="E-mail"autofocus placeholder="E-mail"><br><br>
+<h3 align="center">
+Message  :<input type="text"size="30"name="Message"autofocus placeholder="Message"><br><br>
+ <h3 align="center"><input type="button"value="contactus">
+ 
+</form>
+
+</body>
+</html>

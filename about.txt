@@ -1,0 +1,20 @@
+<html>
+<head>
+</head>
+<body style="background-color:powderblue;">
+<p style="color :green;">  To design and implement this project we plan that the project support to different types of users apart from its administrative part. <br></p>
+<p>When project is run for the first time it allowed the user to select as who he/she wants to login in the system. Project support login as teacher and login as student. If a user who is student, try to login as teacher system will not allow him and vice versa. User who add as teacher in system will be able to punch test and questions to system and also will be able to observe the result of the student which attempt tests. User who login to system as student will be able to select a particular test and attempt questions depend on this test. After attempting the test and submitting that user will receive a message that you have attempt the test successfully and if the user tries to attempt the same test, system will not allow him/her. Also a user which login to system as student will be able to observe the result of test he/she attempt.
+To conclude introduction, we have use these modules to follow the objectives of our project and each of these modules have logical connections to other modules which they are depend.</p>
+- INDEX: Which allow users to select their type of login to system.<br>
+- TEACHER LOGIN: Able the teachers to login to system with a valid user name and password. <br>If a teacher is successfully login to system, he/she will have access to following pages.<br>
+o TEACHER HOME: Which have information about Online MCQ Quiz and issues support by this system for the teachers.<br>
+o QUIZ TEST: Which able the teacher to punch a test and after entering the test name and clicking on ‘Submit to Enter Questions’, teacher will be able to add questions to the particular test.
+o STUDENT MARKS: Which able the teacher to observe the result of all student who have attempt the tests<br>
+- STUDENT LOGIN: Able the students to login to system with a valid user name and password. <br>If student is successfully login to system, he/she will have access to following pages<br>
+o STUDENT HOME: Which have information about Online MCQ Quiz and issues support by this system for students<br>
+ the questions of selected test will be displayed for the student to attempt. <br>Than student will be able to attempt the questions and after submitting, student will receive a message that test is successfully attempt.
+o RESULT: Which able the particular students to have access to result of the test which he/she attempt.<br>
+<button><a href="menu.html">back<a></button>
+</p>
+</body>
+</html>

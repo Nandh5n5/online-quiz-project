@@ -1,0 +1,48 @@
+
+<html>
+<head>
+     <style>
+     table, th, td {
+     border:1px solid black;
+}
+</style>
+</head>
+<body>
+<table style="width:30%">
+  <tr>
+    <td>
+	C:Fixed tags defined by the language [Option : C]
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+     <style>
+     table, th, td {
+     border:1px solid black;
+}
+</style>
+</head>
+<body>
+<table style="width:30%">
+  <tr>
+    <td>
+	img [Option : C]
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+

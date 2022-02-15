@@ -1,0 +1,70 @@
+<html>
+<head>
+<tittle>QUIZ </tittle>
+       <link rel="stylesheet" type="text/css" href="quiz1.css">
+       <script type="text/javascript" src=quiz1.js"></script>
+</head>
+<body>
+ <form name="quiz" id="quiz">
+ <div>
+      <p>1.what is the best programming language to learn in 2022?</p>
+      <p><input type="radio" name="question1" value="HTML">A.HTML</p>
+      <p><input type="radio" name="question1" value="PYTHON">B.PYTHON</p>
+      <p><input type="radio" name="question1" value="JAVASCRIPT">C.JAVASCRIPT</p>
+      <p><input type="radio" name="question1" value="JAVA">D.JAVA</p>
+  
+  
+   <button><a href="q1.html">show answer </a></button>
+ 
+   <button><a. href="empty.html">workspace</a></button>
+
+
+
+      <p>2.HTML is what type of language ?</p>
+      <p><input type="radio" name="question2" value="A.Scripting Language">A.Scripting Language</p>
+      <p><input type="radio" name="question2" value="B.Markup Language">B.markup Language</p>
+      <p><input type="radio" name="question2" value="C.Programming Language">C.Programming Language</p>
+      <p><input type="radio" name="question2" value="D.Network Protocol">D.Network Protocol</p>
+	<button><a href="q2.html">show answer </a></button>
+   
+   
+	
+      <p>3.HTML uses</p>
+      <p><input type="radio" name="question3" value="User defined tags">A.User defined tags</p>
+      <p><input type="radio" name="question3" value="Pre-specified tags">B.Pre-specified tags</p>
+      <p><input type="radio" name="question3" value="Fixed tags defined by the language">C.Fixed tags defined by the language</p>
+      <p><input type="radio" name="question3" value="Tags only for linking">D.Tags only for linking</p>
+    <button><a href="q3.html">show answer </a></button>
+	
+
+      <p>4.The year in which HTML was first proposed _______.</p>
+      <p><input type="radio" name="question4" value="1990">A.1990</p>
+      <p><input type="radio" name="question4" value="1980">B.1980</p>
+      <p><input type="radio" name="question4" value="2000">C.2000</p>
+      <p><input type="radio" name="question4" value="1995">D.1995</p>
+   <button><a href="q4.html">show answer </a></button>
+
+
+  <p>5.Apart from <b> tag, what other tag makes text bold ?</p>
+      <p><input type="radio" name="question5" value="fat">A.fat</p>
+      <p><input type="radio" name="question5" value="strong">B.strong</p>
+      <p><input type="radio" name="question5" value="">C.black</p>
+      <p><input type="radio" name="question5" value="emp">D.emp</p>
+    <button><a href="q5.html">show answer </a></button>
+
+ 	<p>6.What tag is used to display a picture in a HTML page?</p>
+      <p><input type="radio" name="question6" value="picture">A.picture</p>
+      <p><input type="radio" name="question6 value="image">B.image</p>
+      <p><input type="radio" name="question6" value="imag">C.img</p>
+      <p><input type="radio" name="question6" value="src">D.src</p>
+   <button><a href="q6.html">show answer </a></button>
+
+ </div>
+<input type="button" name=" " value="to visit again" id="button" >
+
+
+
+</form>
+
+</body>
+</html>

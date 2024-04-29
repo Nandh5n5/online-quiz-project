@@ -15,13 +15,17 @@ Maintaing different pages in the project for participating defferent types of qu
 
 Finally displacing the score of the project.Also done backend by using sql pluse and tomcat server.
 
-1.Featching Student information
+1.View SignUp Details
 
-2.Featching Teacher information
+2.View Student Details
 
-3.Deleteing Student Details
+3.View Teacher Details
 
-4.Deleting Teacher Details
+4.Delete SignUp Details
+
+5.Add Quiz
+
+6.Update Quiz
 
 ScreenShots:
 

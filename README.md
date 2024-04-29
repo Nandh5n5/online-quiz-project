@@ -23,3 +23,7 @@ Finally displacing the score of the project.Also done backend by using sql pluse
 
 4.Deleting Teacher Details
 
+ScreenShots:
+
+
+![Screenshot (12)](https://github.com/Nandh5n5/online-quiz-project/assets/94433310/b767f8e3-0a68-469c-a1ff-5f270e87876f)

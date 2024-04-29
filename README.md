@@ -47,10 +47,11 @@ ScreenShots:
 ![2022-02-14 (7)](https://github.com/Nandh5n5/online-quiz-project/assets/94433310/4da2d42e-a52a-40fa-bf7c-c1421c90e98d)
 
 
-![2022-02-14 (9)](https://github.com/Nandh5n5/online-quiz-project/assets/94433310/e0fcd2da-d4ed-4cf1-9782-5cc56128c4dc)
+![2022-02-14 (9)](https://github.com/Nandh5n5/online-quiz-project/assets/94433310/ea6c2e4c-14ea-4572-ac78-911aa1151098)
 
 
-![2022-02-14 (10)](https://github.com/Nandh5n5/online-quiz-project/assets/94433310/df24d206-256c-42b6-a144-00963bc69e2c)
+![2022-02-14 (10)](https://github.com/Nandh5n5/online-quiz-project/assets/94433310/21db0740-4e54-4c9c-9fce-5479f08ac371)
+
 
 
 ![2022-02-14 (11)](https://github.com/Nandh5n5/online-quiz-project/assets/94433310/6dcd31df-c22b-4d7e-b610-453fe3ecf49e)
